@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>2. Edit</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b06cd6cb-cfe5-47d5-8418-2e579561866c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1dabce5d-a422-404c-b30a-e2af7b19ad69</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>335e717b-7d89-407f-a4d0-7bc6e8de5dde</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c92c65d7-996b-4ff1-961f-9976cc76c980</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'1'</defaultValue>
+      <description></description>
+      <id>1dabce5d-a422-404c-b30a-e2af7b19ad69</id>
+      <masked>false</masked>
+      <name>No</name>
+   </variable>
+   <variable>
+      <defaultValue>'tes otomasi'</defaultValue>
+      <description></description>
+      <id>335e717b-7d89-407f-a4d0-7bc6e8de5dde</id>
+      <masked>false</masked>
+      <name>NamaGroupKonsumen</name>
+   </variable>
+   <variable>
+      <defaultValue>'tes edit otomasi'</defaultValue>
+      <description></description>
+      <id>c92c65d7-996b-4ff1-961f-9976cc76c980</id>
+      <masked>false</masked>
+      <name>NewNamaGroupKonsumen</name>
+   </variable>
+</TestCaseEntity>

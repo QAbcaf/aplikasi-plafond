@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>3. Delete</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>45d18ada-04e7-4a69-8aa8-37b0a5031c1b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>cab3289c-a47b-4840-b1dd-315043dcac19</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'1'</defaultValue>
+      <description></description>
+      <id>cab3289c-a47b-4840-b1dd-315043dcac19</id>
+      <masked>false</masked>
+      <name>No</name>
+   </variable>
+</TestCaseEntity>

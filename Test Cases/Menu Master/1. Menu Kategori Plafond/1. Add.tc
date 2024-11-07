@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>1. Add</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>98086641-8379-4d0f-abef-f5fcd695e5bc</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9bd4eb24-a8cc-4b87-bdfe-1995a693b3c5</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7400e730-5658-4646-846f-1215b12130d5</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>57c04150-2b1b-4987-bce4-685e16de37bc</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7889e959-23fb-4ad2-a408-55dc3662380f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>96db601d-7de6-4107-8697-1fb91e7ff7ce</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d31f8658-2093-4043-9af3-e956c6ffd8d2</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'1'</defaultValue>
+      <description></description>
+      <id>9bd4eb24-a8cc-4b87-bdfe-1995a693b3c5</id>
+      <masked>false</masked>
+      <name>No</name>
+   </variable>
+   <variable>
+      <defaultValue>'plaf uat automated'</defaultValue>
+      <description></description>
+      <id>7400e730-5658-4646-846f-1215b12130d5</id>
+      <masked>false</masked>
+      <name>KategoriPlafond</name>
+   </variable>
+   <variable>
+      <defaultValue>'SHF;Mandiri;KUR Ritel'</defaultValue>
+      <description></description>
+      <id>57c04150-2b1b-4987-bce4-685e16de37bc</id>
+      <masked>false</masked>
+      <name>ProductCode</name>
+   </variable>
+   <variable>
+      <defaultValue>'KKB;LEASING;KPR'</defaultValue>
+      <description></description>
+      <id>7889e959-23fb-4ad2-a408-55dc3662380f</id>
+      <masked>false</masked>
+      <name>ProductMarketing</name>
+   </variable>
+   <variable>
+      <defaultValue>'DP RINGAN;HUJAN EMAS SF'</defaultValue>
+      <description></description>
+      <id>96db601d-7de6-4107-8697-1fb91e7ff7ce</id>
+      <masked>false</masked>
+      <name>Paket</name>
+   </variable>
+   <variable>
+      <defaultValue>'REVOLVING'</defaultValue>
+      <description></description>
+      <id>d31f8658-2093-4043-9af3-e956c6ffd8d2</id>
+      <masked>false</masked>
+      <name>JenisPlafond</name>
+   </variable>
+</TestCaseEntity>

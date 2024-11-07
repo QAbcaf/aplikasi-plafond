@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>3. Delete</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9165ca8e-401d-4469-8594-1e2291d01a84</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>dc5fc8b4-9b61-4ef6-8ce8-a374cf6b0dc7</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b73c0b90-84e0-47e5-b316-46ac8240a991</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'1'</defaultValue>
+      <description></description>
+      <id>dc5fc8b4-9b61-4ef6-8ce8-a374cf6b0dc7</id>
+      <masked>false</masked>
+      <name>No</name>
+   </variable>
+   <variable>
+      <defaultValue>'tes edit otomasi'</defaultValue>
+      <description></description>
+      <id>b73c0b90-84e0-47e5-b316-46ac8240a991</id>
+      <masked>false</masked>
+      <name>NamaGroupKonsumen</name>
+   </variable>
+</TestCaseEntity>
