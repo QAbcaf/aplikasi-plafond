@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tes</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2415acc5-bb5b-43b9-bcb2-2ca8aebee037</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9004e8f8-9543-4bd2-889e-17979d920415</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'meow;tahu;tempe'</defaultValue>
+      <description></description>
+      <id>9004e8f8-9543-4bd2-889e-17979d920415</id>
+      <masked>false</masked>
+      <name>tess</name>
+   </variable>
+</TestCaseEntity>

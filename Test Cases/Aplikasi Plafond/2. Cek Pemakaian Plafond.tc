@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>2. Cek Pemakaian Plafond</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>edb92ad0-5c45-449b-b2a0-a2cccc1ea71d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b46a02c8-fdb8-4bc6-ace2-64944a280e72</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>45f0c93b-f19c-479f-8440-6f6e963753f8</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'0'</defaultValue>
+      <description></description>
+      <id>b46a02c8-fdb8-4bc6-ace2-64944a280e72</id>
+      <masked>false</masked>
+      <name>No</name>
+   </variable>
+   <variable>
+      <defaultValue>'3748839'</defaultValue>
+      <description></description>
+      <id>45f0c93b-f19c-479f-8440-6f6e963753f8</id>
+      <masked>false</masked>
+      <name>Search</name>
+   </variable>
+</TestCaseEntity>

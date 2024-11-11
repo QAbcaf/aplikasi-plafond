@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Add Kategori Plafond</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>b121f838-9695-48f1-8853-6ccb837b1cfd</testSuiteGuid>
+   <testCaseLink>
+      <guid>d8c9a943-e02a-4f14-9512-2f87e25cb221</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Menu Master/1. Menu Kategori Plafond/1. Add</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>87f8503e-4510-45fb-832b-2aa284bc390f</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Kategori Plafond</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>87f8503e-4510-45fb-832b-2aa284bc390f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>No</value>
+         <variableId>9bd4eb24-a8cc-4b87-bdfe-1995a693b3c5</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>87f8503e-4510-45fb-832b-2aa284bc390f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>KategoriPlafond</value>
+         <variableId>7400e730-5658-4646-846f-1215b12130d5</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>87f8503e-4510-45fb-832b-2aa284bc390f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>ProductCode</value>
+         <variableId>57c04150-2b1b-4987-bce4-685e16de37bc</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>87f8503e-4510-45fb-832b-2aa284bc390f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>ProductMarketing</value>
+         <variableId>7889e959-23fb-4ad2-a408-55dc3662380f</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>87f8503e-4510-45fb-832b-2aa284bc390f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Paket</value>
+         <variableId>96db601d-7de6-4107-8697-1fb91e7ff7ce</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>87f8503e-4510-45fb-832b-2aa284bc390f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>JenisPlafond</value>
+         <variableId>d31f8658-2093-4043-9af3-e956c6ffd8d2</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

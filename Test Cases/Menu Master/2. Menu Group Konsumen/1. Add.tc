@@ -19,14 +19,14 @@
       <variableId>76c02595-ed69-4ddf-bace-634349b17c4c</variableId>
    </variableLinks>
    <variable>
-      <defaultValue>'1'</defaultValue>
+      <defaultValue>''</defaultValue>
       <description></description>
       <id>17499bb0-0daa-447c-abe6-4e236fea02f0</id>
       <masked>false</masked>
       <name>No</name>
    </variable>
    <variable>
-      <defaultValue>'tes otomasi'</defaultValue>
+      <defaultValue>''</defaultValue>
       <description></description>
       <id>76c02595-ed69-4ddf-bace-634349b17c4c</id>
       <masked>false</masked>

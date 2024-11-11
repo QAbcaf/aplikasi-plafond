@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>1. Menu Plafond</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>95963a5a-ef07-4c42-b970-f8aec5ea7592</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>afe7c2f0-f192-4ce3-85d3-2d388caf0f74</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3b2f1b18-0c0a-47a4-a19b-95791b1372e2</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fb65860b-7625-44de-8a3c-9d6f50ab1de0</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>bc6ad009-b676-46af-9c45-9fc708e1c7d4</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'0'</defaultValue>
+      <description></description>
+      <id>afe7c2f0-f192-4ce3-85d3-2d388caf0f74</id>
+      <masked>false</masked>
+      <name>No</name>
+   </variable>
+   <variable>
+      <defaultValue>'Khusnul QA C1'</defaultValue>
+      <description></description>
+      <id>3b2f1b18-0c0a-47a4-a19b-95791b1372e2</id>
+      <masked>false</masked>
+      <name>Nama</name>
+   </variable>
+   <variable>
+      <defaultValue>'C1 UAT TESTER'</defaultValue>
+      <description></description>
+      <id>fb65860b-7625-44de-8a3c-9d6f50ab1de0</id>
+      <masked>false</masked>
+      <name>GroupKonsumen</name>
+   </variable>
+   <variable>
+      <defaultValue>'C1 Plafond Testing;PLAFOND UAT'</defaultValue>
+      <description></description>
+      <id>bc6ad009-b676-46af-9c45-9fc708e1c7d4</id>
+      <masked>false</masked>
+      <name>CheckKategori</name>
+   </variable>
+</TestCaseEntity>

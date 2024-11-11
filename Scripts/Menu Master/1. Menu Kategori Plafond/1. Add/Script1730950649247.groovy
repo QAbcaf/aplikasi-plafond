@@ -80,10 +80,10 @@ if(Paket != "ALL") {
 	WebUI.click(findTestObject('Object Repository/xpath', ['xpath' : "//p-radiobutton[@name='paket' and @value='SELECTED']"]));
 	String[] pakets = Paket.split(';');
 	for (String paket in pakets) {
-		println("Product Marketing = " + paket);
+		println("Paket = " + paket);
 		WebUI.setText(findTestObject('Object Repository/xpath', ['xpath' : "(//input[@placeholder='Search...'])[2]"]), paket);
 		WebUI.delay(1);
-		WebUI.scrollToElement(findTestObject('Object Repository/xpath', ['xpath' : "//div[text()='$paket']"]), 0)
+		WebUI.scrollToElement(findTestObject('Object Repository/xpath', ['xpath' : "//div[text()='$paket']"]), 0);
 		WebUI.click(findTestObject('Object Repository/xpath', ['xpath' : "//div[text()='$paket']"]));
 		WebUI.click(findTestObject('Object Repository/xpath', ['xpath' : "(//button[@icon='pi pi-angle-right'])[3]"]));
 	}
